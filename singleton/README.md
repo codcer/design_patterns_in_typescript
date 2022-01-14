@@ -1,3 +1,3 @@
-## Singleton Pattern ##
+## Singleton Pattern:单例模式 ##
 
-A class of which only a single instance can exist.
+只能存在一个实例的类
